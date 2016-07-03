@@ -1,2 +1,4 @@
 __pycache__/
 *.py[cod]
+src/app/config/*
+!src/app/config/__init__.py
